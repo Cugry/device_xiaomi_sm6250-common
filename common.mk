@@ -60,7 +60,8 @@ PRODUCT_PACKAGES += \
     libhdmiedid \
     libhfp \
     libsndmonitor \
-    libspkrprot
+    libspkrprot \
+    sound_trigger.primary.atoll:32
 
 PRODUCT_COPY_FILES += \
     $(call find-copy-subdir-files,*,$(LOCAL_PATH)/audio/,$(TARGET_COPY_OUT_VENDOR)/etc)
