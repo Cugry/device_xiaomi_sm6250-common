@@ -21,6 +21,12 @@ USE_DEX2OAT_DEBUG := false
 PRODUCT_MINIMIZE_JAVA_DEBUG_INFO := true
 PRODUCT_ART_TARGET_INCLUDE_DEBUG_BUILD := false
 
+# Enable insecure ADB for debugging
+PRODUCT_DEFAULT_PROPERTY_OVERRIDES += \
+    ro.secure=0 \
+    ro.adb.secure=0 \
+    persist.sys.usb.config=adb
+
 # AID/fs configs
 PRODUCT_PACKAGES += \
     fs_config_files
