@@ -10,5 +10,11 @@
   {
     "repository": "android_kernel_xiaomi_sm6250",
     "target_path": "kernel/xiaomi/sm6250"
+  },
+  {
+    "remote": "gitlab",
+    "repository": "arrowos-project/android_prebuilts_clang_host_linux-x86_clang-r437112b",
+    "target_path": "prebuilts/clang/host/linux-x86/clang-r437112b",
+    "branch": "master"
   }
 ]
