@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2020 The Xiaomi-SM6250 Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="advanced_settings">XiaomiParts</string>
+    <string name="advanced_settings_summary">デバイス固有の設定</string>
+
+    <!-- Audio category -->
+    <string name="audio_category">オーディオ</string>
+
+    <!-- Dirac settings -->
+    <string name="dirac_title">Miサウンドエンハンサー</string>
+    <string name="dirac_summary">音質の最適化</string>
+    <string name="dirac_headset_title">ヘッドホンの種類を選択</string>
+    <string name="dirac_preset_title">プリセットを選択</string>
+
+    <!-- Dirac settings: Headset types -->
+    <string name="dirac_headset_default">デフォルト</string>
+    <string name="dirac_headset_earbuds">Mi Earbuds</string>
+    <string name="dirac_headset_in_ear_2013">Mi In-Ear (2013)</string>
+    <string name="dirac_headset_piston_1">Mi Piston-1</string>
+    <string name="dirac_headset_general">General</string>
+    <string name="dirac_headset_general_inear">General In-Ear</string>
+    <string name="dirac_headset_piston_basic">Basic Edition</string>
+    <string name="dirac_headset_piston_2">Mi Piston-2</string>
+    <string name="dirac_headset_piston_standard">Standard Edition</string>
+    <string name="dirac_headset_headphone">Mi Headphones</string>
+    <string name="dirac_headset_piston_youth">Youth Edition</string>
+    <string name="dirac_headset_piston_color">Color Edition</string>
+    <string name="dirac_headset_in_ear">Mi In-Ear</string>
+    <string name="dirac_headset_capsule">Mi Capsule</string>
+    <string name="dirac_headset_in_ear_pro">Mi In-Ear Pro</string>
+    <string name="dirac_headset_comfort">Mi Comfort</string>
+    <string name="dirac_headset_reduction_noise">Mi Noise Cancelling Type-C</string>
+    <string name="dirac_headset_cancelling">Mi Noise Cancelling 3.5mm</string>
+    <string name="dirac_headset_half_in_ear">Mi Half In-Ear</string>
+    <string name="dirac_headset_in_ear2">Mi In-Ear 2</string>
+    <string name="dirac_headset_earphone_basic">Mi Earphones Basic</string>
+    <string name="dirac_headset_earphone">Mi Earphones</string>
+
+    <!-- Dirac settings: Equalizer presets -->
+    <string name="dirac_preset_default">デフォルト</string>
+    <string name="dirac_preset_rock">ロック</string>
+    <string name="dirac_preset_jazz">ジャズ</string>
+    <string name="dirac_preset_pop">ポップ</string>
+    <string name="dirac_preset_classical">クラシカル</string>
+    <string name="dirac_preset_hiphop">ヒップホップ</string>
+    <string name="dirac_preset_blues">ブルース</string>
+    <string name="dirac_preset_electronic">エレクトロニック</string>
+    <string name="dirac_preset_country">カントリー</string>
+    <string name="dirac_preset_dance">ダンス</string>
+    <string name="dirac_preset_metal">メタル</string>
+    <string name="dirac_preset_bass_booster">バスブースト</string>
+
+    <!-- Display category -->
+    <string name="display_category">ディスプレイ</string>
+
+    <!-- KCAL -->
+    <string name="device_kcal_title">ディスプレイの色調整</string>
+    <string name="kcal_enabled_summary">KCALを用いたキャリブレート</string>
+    <string name="advanced_settings_kcal">ディスプレイの色調整</string>
+    <string name="cat_colormanagement">色の設定</string>
+    <string name="cat_calibration">ディスプレイのキャリブレーション</string>
+
+    <string name="kcal_enabled">On</string>
+    <string name="kcal_disabled">Off</string>
+    <string name="set_on_boot">起動時に設定</string>
+    <string name="color_red">赤</string>
+    <string name="color_green">緑</string>
+    <string name="color_blue">青</string>
+    <string name="color_minimum">最小</string>
+    <string name="saturation">彩度</string>
+    <string name="value">バリュー</string>
+    <string name="contrast">コントラスト</string>
+    <string name="hue">色相</string>
+    <string name="grayscale">グレースケール表示</string>
+
+    <!-- KCAL: Presets -->
+    <string name="presets_dialog_title">プリセットを選択する</string>
+    <string name="preset_default">デフォルト</string>
+    <string name="preset_version_1">Version 1</string>
+    <string name="preset_version_2">Version 2</string>
+    <string name="preset_version_3">Version 3</string>
+    <string name="preset_triluminous">Triluminous</string>
+    <string name="preset_deep_black_white">Deep Black and White</string>
+    <string name="preset_deep_natural">Deep Natural</string>
+    <string name="preset_cool_amoled">Cool Amoled</string>
+    <string name="preset_extreme_amoled">Extreme Amoled</string>
+    <string name="preset_warm_amoled">Warm Amoled</string>
+    <string name="preset_hybrid_mamba">Hybrid Mamba</string>
+    <string name="preset_sir_banger">Sir Banger</string>
+    <string name="preset_gerard_extrem_cool">Gerard Extreme Cool</string>
+    <string name="preset_yoyoz808">Yoyoz808</string>
+    <string name="preset_purian">Purian</string>
+    <string name="preset_deep_black_colorful">Deep Black Colorful</string>
+    <string name="preset_vomer_deep_rich">Vomer Deep Rich</string>
+    <string name="preset_franco">Franco</string>
+    <string name="preset_wrinklefree_cool">WrinkleFree Cool</string>
+    <string name="preset_harley_tech">Harley-Tech</string>
+    <string name="preset_perfection">Perfection</string>
+    <string name="preset_banged_up">Banged up</string>
+    <string name="preset_sim_cooler">SimCooler</string>
+    <string name="preset_obsanity">Obsanity</string>
+    <string name="preset_obsanity_ips">Obsanity IPS</string>
+
+    <!-- KCAL: Reset menu -->
+    <string name="kcal_presets" translatable="false">@string/presets_dialog_title</string>
+    <string name="kcal_reset">リセット</string>
+
+    <!-- USB fastcharge category -->
+    <string name="usb_fastcharge_category">USB急速充電</string>
+
+    <!-- USB fastcharge -->
+    <string name="usb_fastcharge_title">USB急速充電の有効化/無効化</string>
+    <string name="usb_fastcharge_summary">USB3.0ポート経由でコンピュータに接続すると最大900mAで充電可能になります。</string>
+
+    <!-- Logs -->
+    <string name="quick_settings_log_tile_label">ログ</string>
+    <string name="quick_settings_log_tile_dialog_title">オプション</string>
+    <string name="cannot_get_su">スーパーユーザーのアクセス権がないため、アクションに失敗しました</string>
+
+    <!-- FPS Info -->
+    <string name="fps_info_title">FPS情報オーバーレイ</string>
+    <string name="fps_info_summary">現在のフレーム/秒をオーバーレイで表示する</string>
+
+    <!-- Ambient gesture haptic feedback -->
+    <string name="ambient_gesture_haptic_feedback">触覚フィードバック</string>
+    <string name="ambient_gesture_haptic_feedback_summary">アンビエントジェスチャーを検出した時に振動します</string>
+
+    <!-- Ambient Display -->
+    <string name="ambient_doze">Doze</string>
+    <string name="ambient_display_xiaomi">XiaomiDoze</string>
+    <string name="advanced_doze_summary">アンビエントディスプレイ</string>
+    <string name="ambient_display_enable_title">アンビエントディスプレイジェスチャー</string>
+    <string name="ambient_display_enable_summary">通知を受信したら画面をONにする</string>
+    <string name="ambient_display_gestures_title">アンビエントディスプレイジェスチャー</string>
+    <string name="ambient_display_gestures_summary">画面をONにするための追加のジェスチャー</string>
+    <string name="ambient_display_summary">通知を受信したら画面をONにする</string>
+    <string name="ambient_display_summary_on">通知を受信したら画面をONになります</string>
+    <string name="ambient_display_summary_off">通知を受信したも画面はONになりません</string>
+
+    <!-- Doze sensor -->
+    <string name="tilt_sensor_title">傾きセンサー</string>
+    <string name="pickup_sensor_title">ピックアップセンサー</string>
+    <string name="proximity_sensor_title">近接センサー</string>
+
+    <!-- Hand wave gesture -->
+    <string name="hand_wave_gesture_title">手を振る</string>
+    <string name="hand_wave_gesture_summary">手を振ると通知します</string>
+    <string name="hand_wave_gesture_flat_title">方向を検出する</string>
+    <string name="hand_wave_gesture_flat_summary">携帯電話が平らな面に上向きに置かれている場合のみ通知します</string>
+
+    <!-- Pick-up gesture -->
+    <string name="pick_up_gesture_title">持ち上げる</string>
+    <string name="pick_up_gesture_summary">持ち上げた時に通知します</string>
+
+    <!-- Pocket gesture -->
+    <string name="pocket_gesture_title">ポケット</string>
+    <string name="pocket_gesture_summary">ポケットから取り出した時に通知します</string>
+
+    <!-- Proximity wake -->
+    <string name="proximity_wake_title">近接センサーによる起動</string>
+    <string name="proximity_wake_enable_title">近接センサーによる起動</string>
+    <string name="proximity_wake_enable_summary">手を振ると画面を起動します</string>
+
+    <!-- Speaker category -->
+    <string name="speaker_category">スピーカー</string>
+
+    <!-- Clear Speaker -->
+    <string name="clear_speaker_title">スピーカーのクリーニング</string>
+    <string name="clear_speaker_summary">30秒間大きな音を再生し、スピーカーをクリーニングします。</string>
+    <string name="clear_speaker_description">スピーカーが軽くホコリで塞がれていることがわかったら、この機能を1～2回実行してください。大きくふさがっている場合は、スピーカーを下向きにして端末を揺らしながら、この機能を2～5回実行してください。</string>
+
+    <!-- Label for feature switch -->
+    <string name="switch_bar_on">オン</string>
+
+    <!-- Label for feature switch -->
+    <string name="switch_bar_off">オフ</string>
+
+    <!-- Custom seekbar -->
+    <string name="custom_seekbar_value">値: <xliff:g id="v">%s</xliff:g></string>
+    <string name="custom_seekbar_default_value">デフォルト</string>
+    <string name="custom_seekbar_default_value_to_set">デフォルトの値 : <xliff:g id="v">%s</xliff:g>\n長押しで設定</string>
+    <string name="custom_seekbar_default_value_is_set">デフォルトの値が設定されています</string>
+
+    <!-- Thermal Profiles -->
+    <string name="thermal_title">Thermal Profiles</string>
+    <string name="thermal_summary">Adjust per-app thermal profiles for optimum performance</string>
+    <string name="thermal_default">Default</string>
+    <string name="thermal_benchmark">Benchmark</string>
+    <string name="thermal_camera">Camera</string>
+    <string name="thermal_dialer">Dialer</string>
+    <string name="thermal_gaming">Gaming</string>
+    <string name="thermal_youtube">Youtube</string>
+
+    <!-- LCD Features -->
+    <string name="lcd_features_title">液晶ディスプレイの機能</string>
+    <string name="lcd_features_summary">高輝度モード、CABC</string>
+    <string name="lcd_hbm_title">高輝度モード (HBM)</string>
+    <string name="lcd_hbm_tile_title">HBM</string>
+    <string name="lcd_cabc_title">CABCモード</string>
+    <string name="lcd_features_info">高輝度モード (HBM) は、ディスプレイの最大輝度を上げ、太陽光の下での視認性を向上させるモードです。\n\nCABC (Content Adaptive Backlight Control) モードは、ディスプレイの最大輝度を上げ、太陽光の下での視認性を向上させます。その代わり、消費電力は増加します。</string>
+
+</resources>
