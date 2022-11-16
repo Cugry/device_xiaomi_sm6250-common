@@ -119,6 +119,7 @@ PRODUCT_PACKAGES += \
 # Camera
 PRODUCT_PACKAGES += \
     libgui_vendor \
+    Snap \
     GCamGOPrebuilt-V3
 
 PRODUCT_PACKAGES += \
@@ -339,6 +340,7 @@ PRODUCT_PACKAGES += \
    SettingsOverlay \
    SettingsProviderOverlay \
    SystemUIOverlay \
+   SnapOverlay \
    TelephonyOverlay \
    TetheringConfigOverlay \
    WifiOverlay
