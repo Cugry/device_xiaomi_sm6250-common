@@ -7,12 +7,6 @@
   },
   {
     "remote": "github",
-    "repository": "ArrowOS-Devices/android_packages_apps_GCamGOPrebuilt",
-    "target_path": "packages/apps/GCamGOPrebuilt",
-    "branch": "arrow-13.0"
-  },
-  {
-    "remote": "github",
     "repository": "SonalSingh18/android_hardware_xiaomi", 
     "target_path": "hardware/xiaomi",
     "branch": "arrow-13.0"
